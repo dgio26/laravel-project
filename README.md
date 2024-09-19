@@ -25,3 +25,13 @@ Pada contact page, ditambahkan link menuju akun Instagram dan X.
 
 ### Mobile View
 ![Screenshot 2024-09-16 170736](https://github.com/user-attachments/assets/d2206317-38dd-4e65-96aa-e9f2ad345751)
+
+## Progress #2
+View Data, Model <br>
+
+### Blog Page
+![Screenshot 2024-09-19 120829](https://github.com/user-attachments/assets/fe4e87fa-5b5c-43c6-8c22-cbb8545c7bc4)
+Ketika mengklik `Read more >>` akan menuju ke halaman Single Post.
+
+### Single Post
+![Screenshot 2024-09-19 120837](https://github.com/user-attachments/assets/8ef2de85-7dfd-4d45-8e60-29d36242ad41)
