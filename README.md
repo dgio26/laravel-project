@@ -35,3 +35,13 @@ Ketika mengklik `Read more >>` akan menuju ke halaman Single Post.
 
 ### Single Post
 ![Screenshot 2024-09-19 120837](https://github.com/user-attachments/assets/8ef2de85-7dfd-4d45-8e60-29d36242ad41)
+
+## Progress #3
+Database and Migration, Eloquent ORM and Post Model <br>
+
+### Blog Page
+![Screenshot 2024-09-25 183114](https://github.com/user-attachments/assets/f38a2d6e-0747-4f87-aaac-699260139151)
+Mengganti tanggal pembuatan post dengan metode `$post->created_at->diffForHumans()` untuk menunjukkan selisih waktu antara tanggal sekarang dan waktu ketika post dibuat.
+
+### Single Post
+![Screenshot 2024-09-25 183015](https://github.com/user-attachments/assets/213eba76-abaf-4e6e-81a7-b55604791ca7)
