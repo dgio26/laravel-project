@@ -45,3 +45,18 @@ Mengganti tanggal pembuatan post dengan metode `$post->created_at->diffForHumans
 
 ### Single Post
 ![Screenshot 2024-09-25 183015](https://github.com/user-attachments/assets/213eba76-abaf-4e6e-81a7-b55604791ca7)
+
+## Progress #4
+Model Factories, Eloquent Relationship, Database Seeder <br>
+
+### Blog Page
+![Screenshot 2024-10-02 145641](https://github.com/user-attachments/assets/ac2bdfad-82c9-43a7-88f2-d37725e263fc)
+Membuat 100 artikel dengan 6 penulis dan 4 kategori.
+
+### Author Page
+![Screenshot 2024-10-02 145652](https://github.com/user-attachments/assets/45978245-d883-4c8b-81cc-445fb5c20140)
+Menampilkan artikel berdasarkan penulis tertentu.
+
+### Category Page
+![Screenshot 2024-10-02 145700](https://github.com/user-attachments/assets/c5f0e74a-2204-4e26-90be-2f609e37e791)
+Menampilkan artikel berdasarkan kategori tertentu.
