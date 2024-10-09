@@ -60,3 +60,19 @@ Menampilkan artikel berdasarkan penulis tertentu.
 ### Category Page
 ![Screenshot 2024-10-02 145700](https://github.com/user-attachments/assets/c5f0e74a-2204-4e26-90be-2f609e37e791)
 Menampilkan artikel berdasarkan kategori tertentu.
+
+## Progress #5
+Debug Bar, Redesign UI, Searching, Pagination <br>
+
+### Blog Page
+![Screenshot 2024-10-09 103941](https://github.com/user-attachments/assets/20b88d6e-f950-4e46-9040-6dc9e38c7d0d)
+Menampilkan maksimal 9 artikel pada setiap halaman.
+
+### Single Post
+![Screenshot 2024-10-09 104039](https://github.com/user-attachments/assets/0c4bd38d-472e-4e41-b350-b9f1ef160860)
+
+### Author Page
+![Screenshot 2024-10-09 104347](https://github.com/user-attachments/assets/9d44d628-1c6b-415c-a80a-ad7651a23dd5)
+
+### Category Page
+![Screenshot 2024-10-09 105004](https://github.com/user-attachments/assets/d09387b8-4538-4421-b227-02bb9192cce7)
